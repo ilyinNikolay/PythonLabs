@@ -1,0 +1,18 @@
+Sum     
+--------
+39502716
+
+Avg   
+------
+4444.0
+
+RandSum
+-------
+2954   
+
+RandMed
+-------
+46.5   
+
+
+Process finished with exit code 0
